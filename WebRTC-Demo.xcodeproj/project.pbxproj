@@ -80,7 +80,6 @@
 		8E5D576F2A48E39A000BA226 /* Infrastructure */ = {
 			isa = PBXGroup;
 			children = (
-				8E5D57792A48F715000BA226 /* Data */,
 				8E5D57732A48EDD7000BA226 /* SignalingClient.swift */,
 				8E5D57712A48E4F7000BA226 /* WebRTCManager.swift */,
 				8E5D57752A48EE2E000BA226 /* WebSocketService.swift */,
@@ -117,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				8E5D576D2A48E37A000BA226 /* Application */,
+				8E5D57792A48F715000BA226 /* Data */,
 				8E5D576F2A48E39A000BA226 /* Infrastructure */,
 				8E5D576B2A48E341000BA226 /* Presentation */,
 				8E5D576E2A48E381000BA226 /* Resources */,
